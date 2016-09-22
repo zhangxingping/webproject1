@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+/* 块定义---------------------------------------------------------------------------------------------------------- */
+.Panel{
+	position: absolute;overflow:hidden;
+}
+/* 以上部分是公共引用区域，下面部分是根据config.xml引用----------------------------------------------------------------- */
+
+
+/* 下面是不同的样式-大中个头 */
+.Panel_Null{padding:0}
+.Panel_m{	
+	padding:3px;
+}
+.Panel_pad15{	
+	padding:15px;
+}
+.Panel_s{
+	padding:1px;
+}
+.Panel_b{
+	padding:6px;
+}
+/* 下面是不同的样式-兰 */
+.Panel_blue {
+	background-color: #00eeFF;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #003399;
+	border-right-color: #000066;
+	border-bottom-color: #000033;
+	border-left-color: #000066;
+	
+}
+
+.Panel_blue_hover {
+	background-color: #66FFFF;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #0066ff;
+	border-right-color: #0000ff;
+	border-bottom-color: #003366;
+	border-left-color: #0000ff;
+	text-align: center;
+}
+/* 上面是一组样式 */
+
+/* 下面是不同的样式-灰 */
+
+.Panel_grain1 {
+	background-color: #888;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #777;
+	border-right-color: #666;
+	border-bottom-color: #666;
+	border-left-color: #666;
+}
+/* 下面是不同的样式-浅灰*/
+.Panel_grain2 {
+	background-color: #eee;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #e0e0e0;
+	border-right-color: #ddd;
+	border-bottom-color: #ddd;
+	border-left-color: #d0d0d0;
+}
+.Panel_seach01{ padding:10px; background:#def; border: solid 6px #cde}
+
+/* 上面是一组样式 */
+
+/* 下面是不同的样式-黄渐变 */
+
+.Panel_yr {
+	font-family: "微软雅黑", "黑体", "宋体";
+	font-weight: normal;
+	background-color:#FFCC00;
+	border: 1px solid #FF6600;
+}
+.colorp_grain_n1{ background-color:#333;}
+.colorp_grain_n1,.colorp_grain_n1 a{color:#eee}
+.colorp_grain_n1 a:hover{color:#fff}
+
+.Panel_grain1 {color:#e0e0e0;}
+.Panel_grain1 a{color:#c0e0ff;}
+.Panel_grain1 a:hover{color:#fff;}
+
+.Paneltool hr{margin:5px 0px 0px 0px; height:0px;border:none;border-top:1px solid #aab;border-bottom:1px solid #fff;}
+.Paneltool hr{ border:none;}
+.Panel_imageconten{width:100%; height:100%}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mbsq"
+  id="myeclipse.1460527874664"
+  context-root="/mbsq"
+  j2ee-spec="6.0"
+  archive="mbsq.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,73 @@
+body{font-size:12px;}
+
+#page2_jPanel1{
+  left: -165px;
+  top: 0px;
+  height: 760px;
+  width: 1358px;
+  background: #60a1de url(../images/log_back_all.JPG) no-repeat;
+}
+
+#page2_jLabel5{
+  left: 434px;
+  top: 620px;
+  line-height: 18px;
+}
+
+#page2_jImages1{
+  left: 429px;
+  top: 263px;
+  height: 300px;
+  width: 480px;
+}
+
+#page2_jHtmlForm1_form{
+  position:absolute;
+  left: 562px;
+  top: 297px;
+  width: 318px;
+  height: 214px;
+}
+
+#page2_jEdit1{
+  left: 0px;
+  top: 1px;
+  width:267px;
+  height:29px;
+}
+
+#page2_jEdit2{
+  left: 0px;
+  top: 51px;
+  width:268px;
+  height:28px;
+}
+
+#page2_jEdit3{
+  left: 0px;
+  top: 97px;
+  width:168px;
+  height:33px;
+}
+
+#page2_jEdit4{
+  left: 185px;
+  top: 97px;
+  width:84px;
+  height:30px;
+}
+
+#page2_jButton1{
+  left: 6px;
+  top: 156px;
+  width:93px;
+  height:45px;
+}
+
+#page2_jLabel1{
+  left: 117px;
+  top: 169px;
+  color: #FF0000;
+  line-height: 20px;
+}
+
